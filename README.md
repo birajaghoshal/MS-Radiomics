@@ -8,10 +8,11 @@ HTML copy of Jupyter notebook (MS_radiomics.html).<br><br>
 Parameter file used in radiomic feature extaction (Params1.yaml). <br><br>
 3 picture files used in the notebook (Fig_1.png, Fig_2.png, Fig_3.png). <br><br>
 
-## Utilized the following major python libraries in project (most included in Anaconda distribution): 
+## Utilized the following major python libraries in project: 
 pyradiomics v.1.2.0 to generate features of dataset. http://pyradiomics.readthedocs.io/en/latest/ <br><br>
 pandas for data manipulation.<br><br>
 sklearn for machine learning.<br><br>
 matplotlib for graphing.<br><br>
 seaborn for data visualizations. <br><br>
 scipy for stats. <br><br>
+Note: Most of these libraries are included in Anconda distribution. 
