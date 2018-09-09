@@ -4,7 +4,7 @@ Correspondance: kareem.a.wahid@uth.tmc.edu. <br>
 For more information on the project, see the following abstract presenting at ACTRIMS 2018: https://actrims.confex.com/actrims/2018/meetingapp.cgi/Paper/2777 . 
 
 ## This repo contains the following files: 
-Input files neccessary for running notebook (ms_radiomics_output_wavelet_resampled_updated_withclinical.csv, ms_radiomics_output_wavelet_resampled_updated_FLAIR.csv). <br><br>
+Input files neccessary for running notebook (ms_radiomics_output_wavelet_resampled_updated_withclinical.csv, ms_radiomics_output_wavelet_resampled_updated_FLAIR.csv). These have actually been removed due for security reasons. <br><br>
 Jupyter notebook of code implementation (MS_radiomics.ipynb). <br><br>
 HTML copy of Jupyter notebook (MS_radiomics.html).<br><br>
 Parameter file used in radiomic feature extaction (Params1.yaml). <br><br>
